@@ -12,16 +12,20 @@ h1 {
 h3 {
     background-color: #ebc728;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 2em;
 }
 
 ul a {
     text-decoration: none;
     color: #000000;
-    font-size: 24px;
+    font-size: 1.5em;
 }
 
 img {
     height: auto;
     width: 400px;
+}
+
+p, li {
+    font-size: 1.2em;
 }
